@@ -1,8 +1,8 @@
 Title: 
 
-Line 1: 
+Line 1: Once upon a time in a galaxy far far away, there were 3 stooges.
 
-Line 2: 
+Line 2: Rodrigo was the handsomest, Axel was the smartest, and Joe was always way way behind.
 
 Line 3: 
 
