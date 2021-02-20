@@ -1,4 +1,4 @@
-Title: 
+Title: The Three Stooges of IC
 
 Line 1: 
 
@@ -8,6 +8,6 @@ Line 3:
 
 Line 4: 
 
-Line 5:
+Line 5:  An then they got tired.
 
-Line 6: 
+Line 6:   All three decided to go out to eat, have a beer, and call it a day.
