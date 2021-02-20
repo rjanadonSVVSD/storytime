@@ -1,12 +1,11 @@
-Title: 
-
+Title: The 3 Stooges
 Line 1: Once upon a time in a galaxy far far away, there were 3 stooges.
 
 Line 2: Rodrigo was the handsomest, Axel was the smartest, and Joe was always way way behind.
 
-Line 3: 
+Line 3: They were a cool group of dudes.
 
-Line 4: 
+Line 4: They tried github at the pub.
 
 Line 5: Then, after figuring out how to create branches and edit them, the 3 Stooges got to work.
 
