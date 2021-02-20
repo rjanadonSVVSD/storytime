@@ -1,8 +1,6 @@
-One group member should fork this repository and add all other group members as collaborators.
+Once upon a time, in a galaxy far far away, there were 3 stooges of IC.  One was Accel, one was Radrogio, and one was ugly.
 
-Decide amongst your group who will create which lines of the story. There's a title and 6 lines to split up between group members. 
-
-Each group member will then create their own branch, download the repo, and edit the groupstory file.
+Radrogio was the smartest, Acel was the handsomest, and ugly had a big nose.
 
 Only edit your line(s) so as not to overwrite your group members work when you merge.
 
